@@ -3,6 +3,7 @@
 
 # CMake output directories:
 Binaries/*
+build/*
 
 # downloaded f2c sources
 f2c

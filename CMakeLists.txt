@@ -6,8 +6,8 @@
 cmake_minimum_required(VERSION 3.18)
 include(CheckFunctionExists)
 
-enable_language(Fortran)
 project(Mystran)
+enable_language(Fortran)
 
 # basic compiler and output options
 set(CMAKE_SOURCE_DIR "${PROJECT_SOURCE_DIR}/Source")
